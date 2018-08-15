@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: bash
-  args: say_hello.sh
+  args: [say_hello.sh]
