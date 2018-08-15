@@ -6,5 +6,5 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: bash
+  path: sh
   args: [say_hello.sh]
